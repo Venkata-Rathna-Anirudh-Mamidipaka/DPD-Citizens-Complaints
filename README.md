@@ -1,0 +1,2 @@
+# DPD-Citizens-Complaints
+This particular dataset shows all citizen complaints that were received by the Detroit Police Department and the Board of Police Commissioners since January 1, 2016. This dataset has information about the nature of individual complaints, demographics for citizens filing the complaints and the officer against which the complaint was filed. This data gets updated every month.
